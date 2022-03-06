@@ -1,0 +1,29 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(112, 179, 243);
+  }
+  #main_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  img {
+    height: 300px;
+    width: 300px;
+  }
+  
+  .container {
+    width: 350px;
+    text-align: left;
+    margin: 50px;
+  }
+  h2 {
+    margin: 0;
+    color: rgb(20, 20, 20);
+  }
+  
+  p {
+    margin: 0;
+    color: whitesmoke;
+  }
